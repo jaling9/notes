@@ -1,14 +1,14 @@
 
-自适应网页设计（Responsive Web Design）
-一、"自适应网页设计"的概念
-二、允许网页宽度自动调整
+#自适应网页设计（Responsive Web Design）
+##一、"自适应网页设计"的概念
+##二、允许网页宽度自动调整
 三、不使用绝对宽度 xx%
 四、相对大小的字体 em/rem
 五、流动布局（fluid grid）
 六、选择加载CSS
 七、CSS的@media规则
 八、图片的自适应（fluid image）
-响应式图像教程
+#响应式图像教程
 一、问题的由来
 二、像素密度的选择：srcset属性
 三、图像大小的选择：srcset属性 + sizes属性
