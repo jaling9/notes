@@ -197,7 +197,7 @@ align-items: unset;
 ```
 
 #### 自适应
-#### #百分比
+#### 百分比
     target / context = result
     60 / 960 = 0.0625
     
