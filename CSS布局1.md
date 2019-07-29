@@ -2,11 +2,24 @@
 
 tags： CSS 布局
 
+[TOC]
 ***
 ##介绍 CSS 布局
 
+###正常布局流
 :    浏览器默认的HTML布局方式。
 ###浮动
+主要用途是布置出多个列并且浮动文字以环绕图片。float 属性有四个可能的值：
+
+> - left — 将元素浮动到左侧。
+> - right — 将元素浮动到右侧。
+> - none — 默认值, 不浮动。
+> - inherit — 继承父元素的浮动属性。
+
+###定位技术
+四种主要的定位类型：
+
+> - **静态定位(Static positioning)是每个元素默认**的属性。
 - **相对定位(Relative positioning)**
 - **绝对定位(Absolute positioning)元素从正常布局流移出，相对于页面的 <html> 元素边缘固定，或者相对于离元素最近的被定位的祖先元素(ancestor element)。**
 - **固定定位(Fixed positioning)相对浏览器视口固定。
